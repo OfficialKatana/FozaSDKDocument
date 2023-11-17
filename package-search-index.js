@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"lu.die.foza.SuperAPI"},{"l":"lu.die.fozacompatibility"}];updateSearchResults();
